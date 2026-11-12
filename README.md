@@ -18,7 +18,7 @@ Our initial phase of standardization focuses on two core components:
 1. **Operational Metadata**
    Standardizing external parameters generated alongside the video feed, including temporal, spatial, and gear-specific data.
 2. **Core Ground Truth Annotations**
-   Establishing consistent formatting for key biological labels so libraries can be queried across projects—specifically focusing on **verified species identification** and **length measurements** (where applicable).
+   Establishing consistent formatting for key biological labels so libraries can be queried across projects, specifically focusing on **verified species identification** and **length measurements** (where applicable).
 
 ## Metadata Framework Approach
 After evaluating existing frameworks (including EVERYFISH COCO and netCDF4), the working group selected **Darwin Core** as the primary foundation due to its strong biological data structure. 
